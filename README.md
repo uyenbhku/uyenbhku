@@ -17,7 +17,7 @@
 - 🌱 **Facebook**: <a href="https://www.facebook.com/uyen.bhku/">Uyên Kim</a> | https://www.facebook.com/uyen.bhku/
 
 #### Additional info
-- My profile: https://uyenbhku.github.io/uyenbhku/
+- My profile: https://uyenbhku.github.io
 
 <!--
 **uyenbhku/uyenbhku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
