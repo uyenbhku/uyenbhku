@@ -13,7 +13,7 @@
 - 📘 **Linkedin**: <a href="www.linkedin.com/in/uyenbhku">Uyen Bui Huynh Kim</a> | www.linkedin.com/in/uyenbhku
 - 📧 **Gmail**: <a href="mailto:uyen.bhku@gmail.com">Uyên Kim</a> | uyen.bhku@gmail.com
 
-💬 If you just wanna get-know me or have a chit chat, feel free to find me on:
+💬 If you just wanna get-to-know me or simply have a chit chat, feel free to find me on:
 - 🌱 **Facebook**: <a href="https://www.facebook.com/uyen.bhku/">Uyên Kim</a> | https://www.facebook.com/uyen.bhku/
 
 #### Additional info
