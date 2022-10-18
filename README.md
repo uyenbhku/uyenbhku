@@ -1,8 +1,7 @@
 ### ✌️ Hi, peeps! 👋 It's @uyenbhku here!
 😜 If this is the first time you visit my Github profile, it's nice to see you round! 💕💕
 
-### Greetings!
-- 🔭 I’m currently a CS student, class of 2025!
+- 🔭 I’m currently a CS student, class of 2025 at UIT - VNUHCM 
 - 🤔 I’m looking for help with AI/ML/NLP. 
 - 💬 If you wanna collaborate with me, please reach me out! 
 - 😄 Pronouns: she/her 
@@ -16,9 +15,28 @@
 💬 If you just wanna get-to-know me or simply have a chit chat, feel free to find me on:
 - 🌱 **Facebook**: <a href="https://www.facebook.com/uyen.bhku/" >Uyên Kim</a> | https://www.facebook.com/uyen.bhku/
 
-#### Additional info
-- My profile: https://uyenbhku.github.io
+
+[<img align="left" alt="Anh Quan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Anh Quan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+
+<br />
+
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+
+
 
 <!--
 **uyenbhku/uyenbhku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
+
