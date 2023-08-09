@@ -6,6 +6,7 @@
 - 💬 If you wanna collaborate with me, please reach me out! 
 - 😄 Pronouns: she/her 
 
+### Get to know me at my <a href="https://uyenbhku.up.railway.app/">Railway Web</a>!
 
 ### Reach me!
 👩‍💻 For further work, I would love if you contact me via:
