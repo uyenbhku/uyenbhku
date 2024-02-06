@@ -2,7 +2,7 @@
 😜 If this is the first time you visit my Github profile, it's nice to see you round! 💕💕
 
 - 🔭 I’m currently a CS student, class of 2025 at UIT - VNUHCM 
-- 🤔 I’m looking for help with AI/ML/NLP. 
+- 🥰 Looking for collaborations in BA and projects.
 - 💬 If you wanna collaborate with me, please reach me out! 
 - 😄 Pronouns: she/her 
 
