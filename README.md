@@ -3,15 +3,19 @@
 
 - 🔭 I’m currently a CS student, class of 2025 at UIT - VNUHCM 
 - 🥰 Looking for collaborations in BA and projects.
-- 💬 If you wanna collaborate with me, please reach me out! 
+- 💬 If you wanna collaborate with me, please reach out! 
 - 😄 Pronouns: she/her 
 
-### Get to know me at my <a href="https://uyenbhku.up.railway.app/">Railway Web</a>!
+### Note:
+- Most of my public repositories are not open-source (no licensed), please ask for permission via any of the below media.
+- You can copy, but if you are detected cloning all from us with no permission, we have all the rights and evidence to conduct legal actions.
+- If you are permitted to use any of them for your purposes, please keep our credits and copyright marks, as a respect for us/me.
 
 ### Reach me!
 👩‍💻 For further work, I would love if you contact me via:
 - 📘 **Linkedin**: <a href="https://www.linkedin.com/in/uyenbhku" >Uyen Bui Huynh Kim</a> | www.linkedin.com/in/uyenbhku
 - 📧 **Gmail**: <a href="mailto:uyen.bhku@gmail.com" >Uyên Kim</a> | uyen.bhku@gmail.com
+- 💻 **Website**: <a href="https://uyenbhku.onrender.com" >Portfolio</a> | https://uyenbhku.onrender.com/home/
 
 💬 If you just wanna get-to-know me or simply have a chit chat, feel free to find me on:
 - 🌱 **Facebook**: <a href="https://www.facebook.com/uyen.bhku/" >Uyên Kim</a> | https://www.facebook.com/uyen.bhku/
