@@ -1,15 +1,15 @@
 ### ✌️ Hi, peeps! 👋 It's @uyenbhku here!
 😜 If this is the first time you visit my Github profile, it's nice to see you round! 💕💕
 
-- 🔭 I’m currently a CS student, class of 2025 at UIT - VNUHCM 
+- 🔭 I’m currently a CS student, class of 2024 at UIT - VNUHCM
+- Ex-intern @ Bosch
+- Software Engineering Intern @ NAB
 - 🥰 Looking for collaborations in BA and projects.
 - 💬 If you wanna collaborate with me, please reach out! 
 - 😄 Pronouns: she/her 
 
 ### Note:
-- Most of my public repositories are not open-source (no licensed), please ask for permission via any of the below media.
-- You can copy, but if you are detected cloning all from us with no permission, we have all the rights and evidence to conduct legal actions.
-- If you are permitted to use any of them for your purposes, please keep our credits and copyright marks, as a respect for us/me.
+- If you want to clone our project, just give me a star ⭐️
 
 ### Reach me!
 👩‍💻 For further work, I would love if you contact me via:
