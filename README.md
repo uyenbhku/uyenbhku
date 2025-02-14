@@ -2,8 +2,8 @@
 😜 If this is the first time you visit my Github profile, it's nice to see you round! 💕💕
 
 - 🔭 I’m currently a CS student, class of 2024 at UIT - VNUHCM
-- Ex-intern @ Bosch
-- Software Engineering Intern @ NAB
+- Ex-intern @ <img height="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Bosch_logo.png"/>
+- Software Engineering Intern @ <img height="22px" src=""/> 
 - 🥰 Looking for collaborations in BA and projects.
 - 💬 If you wanna collaborate with me, please reach out! 
 - 😄 Pronouns: she/her 
