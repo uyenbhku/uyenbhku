@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently a CS student, class of 2024 at UIT - VNUHCM
 - Ex-intern @ <img height="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Bosch_logo.png"/>
-- Software Engineering Intern @ <img height="22px" src=""/> 
+- Software Engineering Intern @ <img height="22px" src="https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/National_Australia_Bank.svg/1200px-National_Australia_Bank.svg.png"/> 
 - 🥰 Looking for collaborations in BA and projects.
 - 💬 If you wanna collaborate with me, please reach out! 
 - 😄 Pronouns: she/her 
